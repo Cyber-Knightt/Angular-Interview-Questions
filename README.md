@@ -3,7 +3,7 @@
 <!-- TOC_START -->
 | No. | Questions |
 | --- | --------- |
-| 1 | [Describe the architecture of a scalable Angular application you've built?](#Describe the architecture of a scalable Angular application you've built?) |
+| 1 | [Describe the architecture of a scalable Angular application you've built?](#Describe-the-architecture-of-a-scalable-Angular-application-you've-built?) |
 | 2 | [What is a prototype chain](#what-is-a-prototype-chain) |
 
 
